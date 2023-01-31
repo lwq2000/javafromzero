@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63aa7926-7f70-4f56-8a4a-9e844a6a81f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafromzero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/hw07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/hw01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/hw02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/hw03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/hw04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/hw01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/hw02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/hw03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,46 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter03" />
+      <recent name="chapter02" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hw03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.hw03" />
+      <module name="javafromzero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.hw04" />
+      <module name="javafromzero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hw04" />
+        <item itemvalue="Application.hw03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
