@@ -1,6 +1,4 @@
-package chapter04;
-
-import java.util.Scanner;
+package chapter05;
 
 public class ex05 {
     public static void main(String[] args) {

@@ -3,10 +3,21 @@ package chapter03;
 public class hw02 {
     public static void main(String[] args){
         /*
-        试着说出下面代码的结果
+        保存一些字符串
          */
-        int i = 66;
-        System.out.println(i+++i);//133
-        System.out.println(++i+i);//134
+        char a = '\n';
+        char b = '\t';
+        char c = '\r';
+        char d = '\\';
+        char e = '1';
+        char f = '4';
+        int g = e + f;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
     }
 }

@@ -1,4 +1,4 @@
-package chapter04;
+package chapter05;
 
 public class hw06 {
     public static void main(String[] args){
