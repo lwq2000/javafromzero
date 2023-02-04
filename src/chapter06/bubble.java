@@ -1,6 +1,6 @@
 package chapter06;
 
-public class MaoPao {
+public class bubble {
     public static void main(String[] args){
         /*
         冒泡排序，从小到大

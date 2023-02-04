@@ -5,57 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63aa7926-7f70-4f56-8a4a-9e844a6a81f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/hw01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/hw02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/hw03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter05/hw04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter06/MaoPao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter06/YangHui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter06/hw01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter06/hw02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/CaiQuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/ChiTao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/EightQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/hw.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter01/hw07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/hw01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/hw02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/hw03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/hw04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/hw04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/hw01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/hw01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/hw02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/hw02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/hw03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/hw03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/hw04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter03/hw04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ex03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/ex04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ex05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ex06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ex07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ex08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/ex09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/ex09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/hw01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/hw02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/hw03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter04/hw04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/hw05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/hw06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/hw07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/hw08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/hw09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter05/hw09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter06/MaoPao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter06/bubble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +44,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/liweiqi/Desktop/java/javafromzero/src/chapter07",
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter07" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter06" />
       <recent name="chapter05" />
       <recent name="chapter04" />
       <recent name="chapter03" />
@@ -142,5 +105,19 @@
       <updated>1675148631083</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
